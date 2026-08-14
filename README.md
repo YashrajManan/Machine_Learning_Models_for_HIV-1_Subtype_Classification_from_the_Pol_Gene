@@ -19,7 +19,7 @@ fragments.
 **Data**: partial HIV-1 *pol* gene sequences sourced from the
 [Los Alamos HIV Sequence Database](https://www.hiv.lanl.gov/), filtered down
 to 10 well-defined subtypes/CRFs (~24,000 sequences after cleaning): B,
-01_AE, C, A1, 07_BC, D, 08_BC, 02_AG, A6, G.
+01_AE, C, A1, 07_BC, D, 08_BC, 02_AG, A6, G.Though data is included in the repository as hiv_db.zip
 
 ## Method
 
