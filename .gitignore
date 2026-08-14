@@ -1,0 +1,13 @@
+# Large raw/prepared data — hosted on Kaggle instead (see README "Data availability")
+*.fasta
+prepared_sequences.csv
+prepared_sequences_clean.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
