@@ -1,0 +1,13 @@
+model,encoding,seed,f1,mcc,bal_acc,acc
+resnet18_nonoise,raw_6mer,0,0.9529,0.985,0.9892,0.9906
+resnet18_nonoise,tfidf_6mer,0,0.9596,0.9839,0.9864,0.99
+resnet18_nonoise,word2vec_6mer,0,0.9414,0.9722,0.9713,0.9826
+resnet18_nonoise,word2vec_tfidf_hybrid,0,0.9468,0.9828,0.9793,0.9893
+resnet18_nonoise,raw_6mer,1,0.9956,0.9973,0.9982,0.9983
+resnet18_nonoise,tfidf_6mer,1,0.9918,0.9973,0.9953,0.9983
+resnet18_nonoise,word2vec_6mer,1,0.9813,0.9875,0.9955,0.992
+resnet18_nonoise,word2vec_tfidf_hybrid,1,0.991,0.9956,0.9978,0.9972
+resnet18_nonoise,raw_6mer,2,0.9536,0.9875,0.9965,0.9916
+resnet18_nonoise,tfidf_6mer,2,0.9888,0.9928,0.9921,0.9952
+resnet18_nonoise,word2vec_6mer,2,0.9584,0.9828,0.9783,0.9885
+resnet18_nonoise,word2vec_tfidf_hybrid,2,0.9825,0.9882,0.9789,0.9921

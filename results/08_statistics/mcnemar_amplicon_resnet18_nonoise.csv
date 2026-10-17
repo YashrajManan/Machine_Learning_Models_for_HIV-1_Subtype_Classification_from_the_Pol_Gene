@@ -1,0 +1,13 @@
+input,seed,n,svm_only_correct,resnet18_only_correct,p_raw,p_holm,significant
+pr_only,0,4585,39,38,1.0,1.0,False
+pr_only,1,4623,56,18,1.1091146210557392e-05,3.3273438631672174e-05,True
+pr_only,2,4167,26,26,1.0,1.0,False
+pr_rt_combined,0,4585,3,0,0.25,0.25,False
+pr_rt_combined,1,4623,7,0,0.015625,0.03125,True
+pr_rt_combined,2,4167,17,0,1.52587890625e-05,4.57763671875e-05,True
+pr_rt_dropout,0,4585,10,4,0.1795654296875,0.1795654296875,False
+pr_rt_dropout,1,4623,14,2,0.004180908203125,0.00836181640625,True
+pr_rt_dropout,2,4167,22,1,5.7220458984375e-06,1.71661376953125e-05,True
+rt_only,0,4585,4,0,0.125,0.25,False
+rt_only,1,4623,5,0,0.0625,0.1875,False
+rt_only,2,4167,8,7,1.0,1.0,False

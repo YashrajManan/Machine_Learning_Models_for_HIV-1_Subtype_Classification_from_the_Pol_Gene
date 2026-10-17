@@ -1,0 +1,5 @@
+encoding,f1_mean,f1_std,bal_acc_mean,bal_acc_std
+raw_6mer,0.9674,0.0245,0.9946,0.0048
+tfidf_6mer,0.9801,0.0178,0.9913,0.0045
+word2vec_6mer,0.9604,0.02,0.9817,0.0125
+word2vec_tfidf_hybrid,0.9734,0.0235,0.9853,0.0108
