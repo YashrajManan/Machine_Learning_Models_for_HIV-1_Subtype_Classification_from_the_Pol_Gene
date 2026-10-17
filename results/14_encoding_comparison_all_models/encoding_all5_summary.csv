@@ -1,4 +1,6 @@
-model,encoding,f1_mean,f1_std,bal_acc_mean,bal_acc_std
+,,f1,f1,bal_acc,bal_acc
+,,mean,std,mean,std
+model,encoding,,,,
 inception,6mer,0.4224,0.1479,0.5024,0.1903
 inception,TF-IDF-6mer,0.8035,0.0446,0.8917,0.0408
 inception,Word2Vec-TF-IDF-6mer,0.8535,0.0157,0.9324,0.0044
@@ -11,10 +13,10 @@ random_forest,6mer,0.9868,0.0147,0.9935,0.0057
 random_forest,TF-IDF-6mer,0.9884,0.0094,0.9872,0.0112
 random_forest,Word2Vec-TF-IDF-6mer,0.9851,0.014,0.9883,0.0097
 random_forest,word2vec6mer,0.9674,0.0172,0.9616,0.0231
-resnet18,6mer,0.9754,0.0218,0.9936,0.0055
-resnet18,TF-IDF-6mer,0.981,0.0222,0.9917,0.0053
-resnet18,Word2Vec-TF-IDF-6mer,0.9747,0.0154,0.9862,0.0054
-resnet18,word2vec6mer,0.965,0.0196,0.9819,0.0087
+resnet18,6mer,0.9674,0.0245,0.9946,0.0048
+resnet18,TF-IDF-6mer,0.9801,0.0178,0.9913,0.0045
+resnet18,Word2Vec-TF-IDF-6mer,0.9734,0.0235,0.9853,0.0108
+resnet18,word2vec6mer,0.9604,0.02,0.9817,0.0125
 vgg16,6mer,0.9858,0.0166,0.9938,0.005
 vgg16,TF-IDF-6mer,0.9705,0.0148,0.9654,0.0235
 vgg16,Word2Vec-TF-IDF-6mer,0.9685,0.0128,0.9747,0.0037

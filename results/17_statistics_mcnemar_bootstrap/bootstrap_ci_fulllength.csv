@@ -1,3 +1,3 @@
 model,point,ci_lower,ci_upper
 svm,0.9736,0.9643,0.981
-resnet18_nonoise,0.9707,0.9614,0.9785
+resnet18,0.9707,0.9614,0.9785

@@ -1,0 +1,6 @@
+jaccard_threshold,approx_identity,n_clusters,largest_cluster,largest_cluster_frac,degenerate,macro_f1_mean,macro_f1_std,n_valid_seeds,note
+0.44,0.9296462164146009,1,24072,1.0,True,,,0,seed 0: empty split (0 train or 0 test); seed 1: empty split (0 train or 0 test); seed 2: empty split (0 train or 0 test)
+0.54,0.9493112321015129,1,24072,1.0,True,,,0,seed 0: empty split (0 train or 0 test); seed 1: empty split (0 train or 0 test); seed 2: empty split (0 train or 0 test)
+0.68,0.9698129866189704,1,24072,1.0,True,,,0,seed 0: empty split (0 train or 0 test); seed 1: empty split (0 train or 0 test); seed 2: empty split (0 train or 0 test)
+0.78,0.9811532081367789,336,23465,0.9748,True,,,0,seed 0: test fold has <2 classes present; seed 1: test fold has <2 classes present; seed 2: test fold has <2 classes present
+0.9,0.9922761112471035,9607,429,0.0178,False,0.9936,0.0058,3,
